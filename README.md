@@ -1,6 +1,10 @@
-# TCDEI Coursework Repository
+# CTDEI Coursework Repository
 
-This repository contains assignments and related materials for the TCDEI (Theory and Computation for Data Engineering and Intelligence) course. Each assignment is organized in its own folder, containing source code, reports, datasets, and supporting documents.
+This repository contains assignments and related materials for the CTDEI (Computational Techniques of Detection, Estimation and Identification) course. 
+
+Each assignment is organized in its own folder, containing source code, reports, datasets, and supporting documents.
+
+[![MATLAB](https://img.shields.io/badge/MATLAB-%233178C6.svg?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 ## Repository Structure
 
