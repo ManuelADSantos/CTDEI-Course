@@ -1,5 +1,4 @@
 # CTDEI Coursework Repository
-
 This repository contains assignments and related materials for the CTDEI (Computational Techniques of Detection, Estimation and Identification) course. 
 
 Each assignment is organized in its own folder, containing source code, reports, datasets, and supporting documents.
